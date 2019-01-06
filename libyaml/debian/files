@@ -1,0 +1,4 @@
+libyaml-0-2-dbgsym_0.2.1-1_amd64.deb debug optional automatic=yes
+libyaml-0-2_0.2.1-1_amd64.deb libs optional
+libyaml-dev_0.2.1-1_amd64.deb libdevel optional
+libyaml-doc_0.2.1-1_all.deb doc optional

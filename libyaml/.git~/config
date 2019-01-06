@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git://andersk.mit.edu/libyaml.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "debian"]
+	remote = origin
+	merge = refs/heads/debian

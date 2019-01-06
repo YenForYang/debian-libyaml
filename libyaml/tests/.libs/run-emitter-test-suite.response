@@ -1,0 +1,6 @@
+-g
+-Wformat
+-Wformat-security
+-o.libs/run-emitter-test-suite
+run-emitter-test-suite.o
+../src/.libs/libyaml.so

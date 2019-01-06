@@ -1,0 +1,6 @@
+-g
+-Wformat
+-Wformat-security
+-o.libs/example-reformatter-alt
+example-reformatter-alt.o
+../src/.libs/libyaml.so

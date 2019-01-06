@@ -1,0 +1,15 @@
+-shared
+-fpic
+-DPIC
+.libs/api.o
+.libs/reader.o
+.libs/scanner.o
+.libs/parser.o
+.libs/loader.o
+.libs/writer.o
+.libs/emitter.o
+.libs/dumper.o
+-g
+-Wl,-soname
+-Wl,libyaml-0.so.2
+-o.libs/libyaml-0.so.2.0.5

@@ -1,0 +1,6 @@
+-g
+-Wformat
+-Wformat-security
+-o.libs/run-loader
+run-loader.o
+../src/.libs/libyaml.so

@@ -1,0 +1,6 @@
+-g
+-Wformat
+-Wformat-security
+-o.libs/run-parser-test-suite
+run-parser-test-suite.o
+../src/.libs/libyaml.so

@@ -1,0 +1,6 @@
+-g
+-Wformat
+-Wformat-security
+-o.libs/run-emitter
+run-emitter.o
+../src/.libs/libyaml.so

@@ -1,0 +1,4 @@
+debian/tmp/usr/include/yaml.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libyaml.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libyaml.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/yaml-0.1.pc

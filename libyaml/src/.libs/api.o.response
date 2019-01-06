@@ -1,0 +1,14 @@
+-DHAVE_CONFIG_H
+-I.
+-I..
+-I../include
+-Wall
+-D_FORTIFY_SOURCE=2
+-g
+-Wformat
+-Wformat-security
+-c
+api.c
+-fpic
+-DPIC
+-o.libs/api.o
